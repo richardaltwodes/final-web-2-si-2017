@@ -1,0 +1,33 @@
+body {
+  background: skyblue url("http://www.twitpaper.com/wp-content/uploads/2014/01/1389272877_Clouds_Pattern1.jpg") fixed repeat;
+}
+
+h1{
+  color:black;
+  font-family:"Comic Sans MS";
+  font-size:60px;
+}
+
+h3{
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Comic Sans MS';
+}
+h4{
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Comic Sans MS';
+}
+
+footer {
+  padding-top: 12px;
+  background-color:black;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:1,5em;
+}

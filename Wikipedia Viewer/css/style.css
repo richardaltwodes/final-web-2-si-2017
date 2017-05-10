@@ -1,0 +1,54 @@
+body {
+  background: skyblue url("http://www.twitpaper.com/wp-content/uploads/2014/01/1389272877_Clouds_Pattern1.jpg") fixed repeat;
+}
+h1{
+  color:black;
+  font-family:"Comic Sans MS";
+  font-size:60px;
+}
+
+.btn{
+  font-family: Century Gothic;
+  color:black;
+  font-size: 20px;
+  width: 40%;
+  background-color: silver;
+  border-radius: 7px;
+  padding: 5px;
+  width:10%;
+}
+#masukkan{
+  border-radius: 8px;
+  font-size: 30px;
+  height: 50px;
+  width: 50%;
+}
+.hasil{
+  background-color: silver;
+  font-family: Century Gothic;
+  padding-left:40px;
+  padding-top: 10px;
+  padding-bot:10px;
+}
+
+h4{
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 20px;
+  text-align: center;
+  font-family: 'Comic Sans MS';
+}
+.kotak {
+  max-width: 900px;
+  background-color: silver;
+  border-radius: 7px;
+  margin: 30px auto;
+}
+footer {
+  padding-top: 12px;
+  background-color:black;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:1,5em;
+}
